@@ -1,0 +1,4 @@
+hello 你好
+and 和
+or 或
+you 你

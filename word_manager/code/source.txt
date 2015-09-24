@@ -1,0 +1,4 @@
+w word
+y yes
+n no
+n nani
